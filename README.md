@@ -9,3 +9,4 @@ Bootstrap and CSS resources and supplemental information for best practices and 
 
 [Bootstrap's Official Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
+[Command-Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
